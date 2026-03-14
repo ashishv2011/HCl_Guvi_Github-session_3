@@ -4,3 +4,10 @@ git commit -m "first commit"
 git branch -M main
 git remote add origin https://github.com/ashishv2011/HCl_Guvi_Github-session_3.git
 git push -u origin main
+
+
+After first time initialization not need to initialize again.
+Only below steps when ever changes are made.
+git add .
+git commit -m "second commit"
+git push.
